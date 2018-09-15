@@ -1,7 +1,8 @@
-# MNIST Classifier
+# Feedforward Neural Network
 
-Practice implementing a fully-connected feedforward neural network using numpy
-to classify handwritten digits provided by the MNIST dataset.
+Practiced implementing a fully-connected feedforward neural network using numpy
+and tested performance by classifying handwritten digits provided by the MNIST
+dataset.
 
 ## Usage
 ```
